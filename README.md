@@ -8,4 +8,5 @@
 [修改版下载地址](https://tlanyan.me/shadowsockr-shadowsocksr-shadowsocksrr-clients/)
 
 如果原作者网站GG了可以下载此仓库里的备份文件
+
 [备份下载地址](https://github.com/loubth/shadowsocksR-ssr/raw/master/ShadowsocksR-win-4.9.2-tlanyan.zip)
